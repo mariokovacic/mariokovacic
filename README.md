@@ -58,7 +58,7 @@
 
 ### :fire: My Stats :
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mariokovacic&theme=hacker&card_width=515)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mariokovacic&theme=hacker&card_width=515&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariokovacic&layout=compact&theme=vision-friendly-dark)](https://github.com/mariokovacic/github-readme-stats)
 
