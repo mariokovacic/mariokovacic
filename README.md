@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-### Hi there, I'm Mario 👋 👽
+### Hi there, I'm Mario 👋 
 
  <br></br> 
 
