@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-### Hi there, I'm Mario 👋 
+### Hi there, I'm Mario, Aspiring Front End Developer 👋 
 
  <br></br> 
 
@@ -13,7 +13,8 @@
 <br></br>
 
 
- 🔭 I’m currently working on improving my ReactJS Skills!
+ 🔭 I’m currently working on improving my ReactJS Skills,
+ by making an ECOMMERCE WEBSITE
 
   <br></br>
   
@@ -34,11 +35,6 @@
  
 ---
 
-
-![giphy (1)](https://github.com/mariokovacic/mariokovacic/assets/14892903/ebbc1f3d-d1af-472c-af89-ac2a7a07fd0c)
-
-
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -63,13 +59,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariokovacic&layout=compact&theme=vision-friendly-dark)](https://github.com/mariokovacic/github-readme-stats)
 
 
----
-<br></br>
+--- 
 
-![giphy3](https://github.com/mariokovacic/mariokovacic/assets/14892903/bf7aa470-fd41-4890-bb27-fd6309f18e7c)
+⬇️ BELOW YOU CAN FIND MORE OF MY PROJECTS ⬇️
 
-
----
 
 <h1>THANK YOU for visiting!😊</h1>
 
