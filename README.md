@@ -61,7 +61,7 @@
 
 --- 
 
-⬇️ BELOW YOU CAN FIND MORE OF MY PROJECTS ⬇️
+⬇️ BELOW YOU CAN FIND MY PROJECTS ⬇️
 
 
 <h1>THANK YOU for visiting!😊</h1>
