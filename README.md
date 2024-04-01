@@ -22,9 +22,6 @@
 </div>
 
 
-<p>mario.kovacic7@gmail.com </p> 
-
-
  <br></br> 
 
  
