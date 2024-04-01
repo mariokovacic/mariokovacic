@@ -10,11 +10,6 @@
 
 --------------------------------------------------------------
 
-<br></br>
-
-
- 🔭 I’m currently working on improving my ReactJS Skills,
- by making an ECOMMERCE WEBSITE
 
   <br></br>
   
