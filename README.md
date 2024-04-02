@@ -55,6 +55,8 @@
 
 ⬇️ BELOW YOU CAN FIND MY PROJECTS ⬇️
 
+(purpose of those projects is improving basic skills with technologies used in Front End Development)
+
 
 <h1>THANK YOU for visiting!😊</h1>
 
